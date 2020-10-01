@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Link to deployed version
+https://gaisie-airbnb-clone.web.app/
 
 ## Available Scripts
 
